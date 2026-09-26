@@ -18,7 +18,7 @@ Users can order items from a menu, see their total bill, and view the total quan
 
 ## How to Run
 1. Install Python 3 on your computer
-2. Download `order_system.py` (or whatever you named your file)
+2. Download `order_system.py`
 3. Open terminal or command prompt
 4. Navigate to the folder containing the file
 5. Run the program:
